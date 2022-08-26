@@ -2,7 +2,7 @@
 
 # 
 <h1 align="center">
- Calculator
+ Calculator 🖩
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calculator é uma calculadora simples feita com HTML, CSS e JavaScript
 
-##🔖 Layout
+## 🔖 Layout
 
 https://calculator-bruno.netlify.app/
 
