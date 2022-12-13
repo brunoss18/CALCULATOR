@@ -2,7 +2,7 @@
 
 # 
 <h1 align="center">
-My Shoes 👠
+Calculator 🖩
 </h1>
 
 <p align="center">
